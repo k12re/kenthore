@@ -314,7 +314,7 @@ function App() {
             </g>
           </svg>
         </a>
-        <a href="www.linkedin.com/in/ken-thore-boeng">
+        <a href="https://linkedin.com/in/ken-thore-boeng">
           <svg viewBox="0 0 128 128" width="48" height="48">
             <path
               fill="currentColor"
